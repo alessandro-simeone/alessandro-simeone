@@ -2,15 +2,16 @@
 **BSc in Computer Science**  
 **Software Developer R&D**  
 
-```bash
-░█▀▀█ ▒█▀▀█ ░█▀▀█ ▀▀█▀▀ ░█▀▀█ ░█▀▀▀█ 
-▒█▄▄█ ▒█▄▄█ ▒█▄▄█ ░▒█░░ ▒█▄▄█ ▒█░░▒█ 
-▒█░▒█ ▒█░░░ ▒█░▒█ ░▒█░░ ▒█░▒█ ▒█▄▄▄█
+### About Me  
+I am passionate about formal verification and model checking, with a focus on developing robust and reliable software systems.
 
->>> SYSTEM ONLINE: INITIATE PROFILE ...
-{ Skills_Loaded: ['Java', 'Python', 'TLA+'] }
+### Programming Languages  
+- **Java**  
+- **Python**  
+- **TLA+**
 
->>> FOLLOW: DECIPHER THE MATRIX TO KNOW MORE ...
+---
+Feel free to reach out for collaborations or discussions related to software development, formal methods, or research in the field of computer science!
 
 
 
