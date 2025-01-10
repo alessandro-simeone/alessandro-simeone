@@ -1,8 +1,17 @@
-Alessandro Simeone
+# Alessandro Simeone  
+**BSc in Computer Science**  
+**Software Developer R&D**  
 
-BSc Computer Science
+### About Me  
+I am passionate about formal verification and model checking, with a focus on developing robust and reliable software systems.
 
-Software Developer
+### Programming Languages  
+- **Java**  
+- **Python**  
+- **TLA+**
+
+---
+Feel free to reach out for collaborations or discussions related to software development, formal methods, or research in the field of computer science!
 
 <!---
 alessandro-simeone/alessandro-simeone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
