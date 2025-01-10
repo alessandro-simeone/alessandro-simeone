@@ -2,6 +2,7 @@
 **BSc in Computer Science**  
 **Software Developer R&D**  
 
+<!---
 ### About Me  
 I am passionate about formal verification and model checking, with a focus on developing robust and reliable software systems.
 
@@ -12,7 +13,7 @@ I am passionate about formal verification and model checking, with a focus on de
 
 ---
 Feel free to reach out for collaborations or discussions related to software development, formal methods, or research in the field of computer science!
-
+--->
 
 
 <!---
